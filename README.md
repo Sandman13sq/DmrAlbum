@@ -12,5 +12,10 @@ or to my YouTube channel:
 https://www.youtube.com/c/dreamer13sq
 
 # Videos
-- **"Beautiful Bound"** - [YouTube](https://youtu.be/F-YM17IMaeU)    [GitHub](https://github.com/Dreamer13sq/DmrAlbum/tree/main/Beautiful%20Bound)
- 
+### **"Beautiful Bound"** - [YouTube](https://youtu.be/F-YM17IMaeU)    [GitHub](https://github.com/Dreamer13sq/DmrAlbum/tree/main/Beautiful%20Bound)
+![Beautiful Bound](https://github.com/Dreamer13sq/DmrAlbum/blob/main/Beautiful%20Bound/beautifulbound_screen.png)
+---
+
+### **"Cemetery - Arthur Theme Concept"** - [YouTube](https://youtu.be/D_pPKzhbph0)    [GitHub](https://github.com/Dreamer13sq/DmrAlbum/tree/main/Cemetery%20-%20Arthur%20Theme%20Concept )
+![Cemetery - Arthur Theme Concept](https://github.com/Dreamer13sq/DmrAlbum/blob/main/Cemetery%20-%20Arthur%20Theme%20Concept/Cemetery.png)
+---
