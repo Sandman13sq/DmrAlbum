@@ -3,7 +3,10 @@ Art and music used in released YouTube videos or other media.
 
 ## NOTE: FL Studio files (.flp) uses Fruity Soundfont Player for soundfonts. 
 If anyone has any solutions so people don't have to shell out $35 to play the songs in FL, please send me an email. 
-  
+
+FL Studio files (.flp) with *x32* in the filename are made in `FL Studio 32Bit v20.8.4` 
+Previous versions of FL can be found on this forum page:
+https://forum.image-line.com/viewtopic.php?f=1995&t=194258
 
 If my work is used anywhere, credit by linking back to this repo:  
 https://github.com/Sandman13sq/DmrAlbum
